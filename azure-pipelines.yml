@@ -25,7 +25,7 @@ steps:
   inputs:
     command: Build an image
     containerregistrytype: Container Registry
-    dockerRegistryEndpoint: DockerHub
+    dockerRegistryEndpoint: sendilkumar_docker_hub
     dockerFile: Dockerfile
     imageName: $(imageName)
     imageNamesPath: 
@@ -35,7 +35,7 @@ steps:
   inputs:
     command: Push an image
     containerregistrytype: Container Registry
-    dockerRegistryEndpoint: DockerHub
+    dockerRegistryEndpoint: sendilkumar_docker_hub
     dockerFile: Dockerfile
     imageName: $(imageName)
     imageNamesPath: 
