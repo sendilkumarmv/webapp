@@ -1,6 +1,6 @@
 # An ASP .Net Core based Web Application used for testing the Microsoft Aure Pipelines setup.
 <br>
-
+[![Build Status](https://dev.azure.com/semuproject1/quickdev-webapp/_apis/build/status/sendilkumarmv.webapp?branchName=master)](https://dev.azure.com/semuproject1/quickdev-webapp/_build/latest?definitionId=3&branchName=master)
 
 ### Related articles:
  - [develop an ASP .Net Core web application and containerize it with Docker](https://www.quickdevnotes.com/deploy-net-core-web-application-using-azure-and-docker/)
